@@ -25,12 +25,14 @@ Customer Demographics  (e.g., tenure, contract type)
 
 ### Key Features
 
-| Feature            | Description                                               |
-| ------------------ | --------------------------------------------------------- |
-| `tenure_months`    | Number of months the customer has stayed with the company |
-| `contract_type`    | Month-to-month, One year, Two year                        |
-| `payment_method`   | Mode of payment used by the customer                      |
-| `internet_service` | Type of internet service subscribed                       |
+| Feature             | Why It Matters for Churn                              |
+| ------------------- | ----------------------------------------------------- |
+| tenure_months       | New customers are more likely to churn                |
+| contract_type       | Month-to-month contracts show higher churn risk       |
+| arpu                | Reflects actual realized customer revenue             |
+| high_overage_flag   | Captures billing shock behavior                       |
+| payment_method      | Certain payment types correlate with delayed payments |
+| complaint_frequency | Strong dissatisfaction indicator                      |
 
 ---
 
@@ -219,6 +221,7 @@ Telecom-Churn-Prediction/
 
 **Vrushali Oak**
 Aspiring Data Scientist | Machine Learning | Analytics
+
 
 
 
