@@ -100,7 +100,7 @@ The final model was selected based on:
   * Certain payment methods
 
 ### Performance Snapshot
-<img width="775" height="498" alt="image" src="https://github.com/user-attachments/assets/ff4ceeab-5b65-4019-b522-fd789ea4aef0" />
+<img width="468" height="301" alt="image" src="https://github.com/user-attachments/assets/1e99ee47-d140-4efd-92bf-9622f68d6473" />
 
 
 
@@ -219,6 +219,7 @@ Telecom-Churn-Prediction/
 
 **Vrushali Oak**
 Aspiring Data Scientist | Machine Learning | Analytics
+
 
 
 
