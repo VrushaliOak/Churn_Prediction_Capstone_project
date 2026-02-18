@@ -197,15 +197,24 @@ http://localhost:8501
 ##  Project Structure
 
 ```
+Telecom-Churn-Prediction/
+│
 ├── data/
 │   └── telecom_churn.csv
-├── models/
-│   └── churn_model.pkl
-├── Capstone_project_Vrushali.ipynb
-├── streamlit_app.py
+├── notebook/
+│   └── Capstone_project.ipynb
+├── app/
+│   └── streamlit_app.py
+├── model/
+│   └── model.pkl
+├── reports/
+│   └── project_report.pdf
 ├── requirements.txt
 └── README.md
+
 ```
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/85b34903-f9fa-4d85-b62b-ce50e019fd88" />
+<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/67580627-ef55-46d6-9626-5eb2ddf9c367" />
 
 ---
 
@@ -213,4 +222,5 @@ http://localhost:8501
 
 **Vrushali Oak**
 Aspiring Data Scientist | Machine Learning | Analytics
+
 
