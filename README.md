@@ -100,12 +100,8 @@ The final model was selected based on:
   * Certain payment methods
 
 ### Performance Snapshot
+<img width="1575" height="1013" alt="image" src="https://github.com/user-attachments/assets/40973069-8148-4c25-82c7-8fb0b8b9af08" />
 
-| Metric    | Score                         |
-| --------- | ----------------------------- |
-| ROC-AUC   | High-performing               |
-| Precision | Balanced                      |
-| Recall    | Optimized for churn detection |
 
 ---
 
@@ -222,5 +218,6 @@ Telecom-Churn-Prediction/
 
 **Vrushali Oak**
 Aspiring Data Scientist | Machine Learning | Analytics
+
 
 
